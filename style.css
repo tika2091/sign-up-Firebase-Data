@@ -1,0 +1,50 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+
+body{
+	margin:0;
+	padding:0;
+}
+
+.jumbotron{
+	margin:20px;
+	text-align: center;
+
+}
+.jumbotron h1{
+	font-weight: bold;
+}
+
+#container .jumbotron{
+	margin:0;
+	padding:10px;
+}
+
+
+#container{
+	margin:20px;
+}
+
+
+#container .jumbotron{
+	border-radius: 0;
+
+}
+
+form{
+	margin:10px;
+}
+
+
+.l-panel-container{
+	border:1px solid #a7a3a3;
+
+}
+
+.r-panel-container{
+	border:1px solid #a7a3a3;
+}
+
